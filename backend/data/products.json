@@ -1,0 +1,62 @@
+[ 
+  {
+    "name": "Letuce Green Fresh",
+    "price": "98.24",
+    "description": "A leafy salad green that grows from a stalk and spreads out to form a loose leafed bunch of greens with a decorative frilled green edging. The greens provide a crispy textured mellow tasting addition to a salad or sandwich and are often used as a decorative complement to an arranged tray of vegetables, meats or fruits",
+    "ratings": 4.5,
+    "images" : [{
+      "public_id": "products/001",
+      "url":  "htttps://res.cloudfires"
+    }],
+    "category": "Plants",
+    "seller": "ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews":[]
+  },
+  {
+    "name": "Letuce red Fresh",
+    "price": "80.24",
+    "description": "A leafy salad green that grows from a stalk and spreads out to form a loose leafed bunch of greens with a decorative frilled green edging. The greens provide a crispy textured mellow tasting addition to a salad or sandwich and are often used as a decorative complement to an arranged tray of vegetables, meats or fruits",
+    "ratings": 4.5,
+    "images" : [{
+      "public_id": "products/002",
+      "url":  "htttps://res.cloudfires"
+    }],
+    "category": "Plants",
+    "seller": "ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews":[]
+  },
+  {
+    "name": "Letuce yellow Fresh",
+    "price": "90.24",
+    "description": "A leafy salad green that grows from a stalk and spreads out to form a loose leafed bunch of greens with a decorative frilled green edging. The greens provide a crispy textured mellow tasting addition to a salad or sandwich and are often used as a decorative complement to an arranged tray of vegetables, meats or fruits",
+    "ratings": 4.5,
+    "images" : [{
+      "public_id": "products/003",
+      "url":  "htttps://res.cloudfires"
+    }],
+    "category": "Plants",
+    "seller": "ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews":[]
+  },
+  {
+    "name": "Letuce Big Fresh",
+    "price": "190.24",
+    "description": "A leafy salad green that grows from a stalk and spreads out to form a loose leafed bunch of greens with a decorative frilled green edging. The greens provide a crispy textured mellow tasting addition to a salad or sandwich and are often used as a decorative complement to an arranged tray of vegetables, meats or fruits",
+    "ratings": 4.5,
+    "images" : [{
+      "public_id": "products/004",
+      "url":  "htttps://res.cloudfires"
+    }],
+    "category": "Plants",
+    "seller": "ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews":[]
+  }
+]
